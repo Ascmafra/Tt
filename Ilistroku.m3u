@@ -15,5 +15,7 @@ http://mycdn.delivery/discoveryscience/index.m3u8
 https://mycdn.delivery/animalplanet/index.m3u8
 #EXTINF:-1, DisKV HD
 https://mycdn.delivery/discovery/index.m3u8
-#EXTINF:-1, FX HD [ALT]
+#EXTINF:-1, F-X HD [ALT]
 http://play.1list.vip/live/19993843500/7p1cp3i6fv/50770.mpegts
+#EXTINF:1, F-X HD
+https://mycdn.delivery/fx/index.m3u8
