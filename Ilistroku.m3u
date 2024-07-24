@@ -9,3 +9,5 @@ https://abc.embedmax.site/premiere1/preview.mp4
 https://abc.embedmax.site/ae/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1 group-title="Entertainment",tEST HD
 https://mycdn.delivery/axn/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Entertainment",DSKV HD
+http://mycdn.delivery/discoveryscience/index.m3u8
