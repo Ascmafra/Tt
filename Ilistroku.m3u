@@ -27,5 +27,11 @@ https://mycdn.delivery/hbo/index.m3u8
 http://mycdn.delivery/history/index.m3u8
 #EXTINF:-1, PRMI 1
 http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/37016.mpegts
-#EXTINF:-1,CANAL SONY HD
-http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18714
+#EXTINF:-1, SPTV 1
+http://209.14.152.18/live/mtuwf3r4/lcs7mpt2/608030.m3u8
+#EXTINF:-1, PREMI 1
+http://209.14.152.18/live/mtuwf3r4/lcs7mpt2/608076.m3u8
+#EXTINF:-1, TLCIN ACTION
+http://209.14.152.18/live/mtuwf3r4/lcs7mpt2/97302.m3u8
+
+
