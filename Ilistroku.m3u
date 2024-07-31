@@ -1,12 +1,14 @@
 #EXTM3U
-#EXTINF:-1 group-title="Entertainment",TESTE HD
-http://xciptv.aplicativos.top:80/262144514/mega96502/284576
-#EXTINF:-1 group-title="Entertainment",TEST TWO HD
-http://streamsy.online:2999/live/korrigan17/25AUFBdqOi/46.ts
-#EXTINF:-1 group-title="Entertainment",PREMI1 HD
-https://abc.embedmax.site/premiere1/preview.mp4
-#EXTINF:-1 group-title="Entertainment",testes HD
-https://abc.embedmax.site/ae/tracks-v1/index.fmp4.m3u8
+#EXTINF:-1 group-title="ESPORTES",E-SPN HD
+http://209.14.152.18/live/mtuwf3r4/lcs7mpt2/601539.m3u8
+#EXTINF:-1 group-title="ESPORTES",E-SPN FHD
+http://209.14.152.18/live/mtuwf3r4/lcs7mpt2/602674.m3u8
+#EXTINF:-1 group-title="ESPORTES",PRIME1 HD
+https://sportscdn.net/live/v10l9m8r5auc.m3u8
+#EXTINF:-1 group-title="ESPORTES",PRIME2 HD
+https://sportscdn.net/live/islrm882p4ke.m3u8
+#EXTINF:-1 group-title="ESPORTES",PRIME 3
+http://209.14.152.18/live/mtuwf3r4/lcs7mpt2/601981.m3u8
 #EXTINF:-1 group-title="Entertainment",A-X-N HD
 https://mycdn.delivery/axn/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Entertainment",DSKV SCI HD
@@ -33,5 +35,6 @@ http://209.14.152.18/live/mtuwf3r4/lcs7mpt2/608030.m3u8
 http://209.14.152.18/live/mtuwf3r4/lcs7mpt2/608076.m3u8
 #EXTINF:-1, TLCIN ACTION
 http://209.14.152.18/live/mtuwf3r4/lcs7mpt2/97302.m3u8
+
 
 
