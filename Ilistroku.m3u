@@ -14,7 +14,7 @@ https://mycdn.delivery/axn/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Entertainment",DSKV SCI HD
 http://mycdn.delivery/discoveryscience/index.m3u8
 #EXTINF:-1, Ani Plnt HD
-https://mycdn.delivery/animalplanet/index.m3u8
+http://134.195.198.26/live/19452920/03484478/3601.m3u8
 #EXTINF:-1, DisKV HD
 https://mycdn.delivery/discovery/index.m3u8
 #EXTINF:-1, F-X HD [ALT]
@@ -26,15 +26,23 @@ https://cdn-2.nxplay.com.br/GLOBO_SP_TK/tracks-v2a1/index.m3u8
 #EXTINF:=1, H=B=O
 https://mycdn.delivery/hbo/index.m3u8
 #EXTINF:-1, HIS-TORY 1
-http://mycdn.delivery/history/index.m3u8
+http://game.shiuk.re/live/782957/462594/303.m3u8
+#EXTINF:-1, HIS-TORY 1 fonte2
+http://134.195.198.26/live/19452920/03484478/3601.m3u8
 #EXTINF:-1, PRMI 1
 http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/37016.mpegts
 #EXTINF:-1, SPTV 1
-http://209.14.152.18/live/mtuwf3r4/lcs7mpt2/608030.m3u8
+http://208.115.215.6/hls/0wl2KhAtljR67g4tyyr3kTLH8Z2DRnt83CwEZVdOF0jgCHyxwa-GlPWVhJyR3LhlxlIkQrO6lerig6VD8-gZcCA5_fIEqFHmjZsq_Xl7M3-1g3KgaLJv6rOsrTx2IUmh
+#EXTINF:-1, SPTV 2
+http://208.115.215.6/hls/0wl2KhAtljR67g4tyyr3kac4wKpDBiqlWxdDa1fbXY2vyo-c1TQSWaBUzPZZW5ALBZhV-hBhfTp5cIoJThnytB5XOrPCt5XaR6Ev5hot19XYxkbyZ9nj1iUS6JoaDR-Z
 #EXTINF:-1, PREMI 1
 http://209.14.152.18/live/mtuwf3r4/lcs7mpt2/608076.m3u8
 #EXTINF:-1, TLCIN ACTION
-http://209.14.152.18/live/mtuwf3r4/lcs7mpt2/97302.m3u8
+http://game.shiuk.re/live/782957/462594/726.m3u8
+#EXTINF:-1, TLCIN Premium
+http://game.shiuk.re/live/782957/462594/725.m3u8
+#EXTINF:-1, CINE-MAX
+https://xn--1ktrw53ek20m9uub3vqapa14guicplivfjp608bl15m47qo3ew23-ib5brl.p7s1lm71nyxyt6o845mpo1tpa2sw7yeq4ynrjelo3a7e0eml4telo3a7e0eml4t.foo/a1/docs/cinemax/__index.m3u8?mu3zAQc9HC3GbwJq=D9o37FyLnr-Ak4_Qp8spAQ&3U1G7qaTxrPbalZnEx=1723187899&sv=421
 
 
 
